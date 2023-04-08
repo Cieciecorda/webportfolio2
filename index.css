@@ -1,0 +1,93 @@
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	margin: 20px;
+	padding: 10px;
+	width: auto;
+	background-color: rgb(40, 61, 59);
+}
+
+nav {
+	background-color: rgb(2, 48, 71);
+	font-family: 'Righteous', cursive;
+	font-style: bold;
+}
+
+h1 {
+	font-family: 'Bebas Neue', cursive;
+	font-size: 100px;
+	text-align: center;
+}
+ 
+p {
+	text-align: justify;
+	font-family: 'Roboto Mono', monospace;
+}
+
+#number {
+	text-align: center;
+}
+
+address {
+	text-align: center;
+	font-family: 'Roboto Mono', monospace;
+}
+
+#pfp {
+	border-radius: 50%;
+}
+
+h3 {
+	text-align: center;
+	font-family: 'Righteous', cursive;
+}
+
+.jumbotron {
+	background-color: rgb(255, 255, 255);
+}
+
+#about {
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 30px;
+}
+
+#applications {
+	margin: 80px solid;
+	border-radius: 10px;
+	background-color: rgb(255, 255, 255);
+	display: 
+}
+
+.flex-container {
+	display: flex;
+	flex-direction: row;
+	align-content: right;
+}
+
+.section {
+	display: flex;
+	flex-direction: row;
+}
+
+#gitlab {
+	margin-top: 17px;
+	margin-left: 25px;
+}
+
+h2 {
+	font-family: 'Righteous', cursive;
+}
+
+#languages {
+	position: inherit;
+	width: 1300px;
+	height: 500px;
+	margin-left: 15px;
+}
+
+.form-group {
+	font-family: 'Rpboto Mono', monospace;
+}
